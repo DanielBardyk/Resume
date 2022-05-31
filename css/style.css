@@ -5,7 +5,7 @@ body {
 .main-container {
   display: flex;
   flex-direction: row-reverse;
-  width: 80%;
+  width: 100%;
   background: #fff;
   margin: 40px auto;
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
